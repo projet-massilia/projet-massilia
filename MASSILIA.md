@@ -3,6 +3,7 @@
 
 ## Pourquoi GitHub ?
 Nous avons choisi GitHub comme notre espace collaboratif car il offre la transparence, la flexibilité et les outils nécessaires pour que tout le monde puisse contribuer efficacement. Que vous soyez développeur, concepteur, rédacteur, ou simplement passionné par notre mission, votre contribution est précieuse.
+En plus, on a imaginé notre projet un peu à l'image de GitHub : tout le monde peut y participer et tout le monde à accès à tous les documents !
 
 ## Comment Contribuer ?
 Explorez : Commencez par jeter un œil aux différents dossiers, issues, et pull requests pour voir ce qui se passe.
