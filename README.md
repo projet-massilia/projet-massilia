@@ -1,5 +1,9 @@
-### Hi there 👋
-TEST
+### Bonjour à toi ! 👋
+
+Bienvenue sur l'espace collaboratif Github du projet MASSILIA !
+C'est le lieu où tout le monde peut apporter sa pierre à l'édifice.
+
+Les règles sont simples : on respecte le travail de chacun et on ne laisse aucune idée sur le coté !
 <!--
 **projet-massilia/projet-massilia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
